@@ -1,0 +1,10 @@
+.filterCategorie {
+    width: 100%;
+}
+
+@media (min-width: 640px) {
+    .filterCategorie {
+        width: 100%;
+        max-width: 15rem;
+    }
+}
